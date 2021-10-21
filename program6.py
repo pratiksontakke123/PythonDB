@@ -20,7 +20,7 @@ try:
 except:
     print('error in deletion')
 
-
+print(data)
 con.close()
 
 
